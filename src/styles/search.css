@@ -1,0 +1,23 @@
+
+
+.search-comp{
+}
+.search-comp input
+{
+    display: block;
+    width: 1000px;
+    height: 60px;
+    margin: 30px auto;
+    padding-left: 15px;
+    border: solid 1px grey;
+    border-radius: 7px;
+    font-size: 20px;
+    font-weight: 600;
+}   
+.search-comp input:focus{
+    border: solid 1px tomato;
+    outline: solid 2px rgba(255, 157, 139, 0.575);
+}
+.search-comp .title{
+    margin-left: 100px;
+}

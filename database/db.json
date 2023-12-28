@@ -1,0 +1,332 @@
+{
+    "movies": [
+      {
+        "moviename": "Kolar Gold Fileds (KGF)",
+        "hero": "Yash",
+        "heroine": "Shree nidhi",
+        "director": "Prashanth neel",
+        "production_house": "Hombale",
+        "budget": "100crcrcrcr",
+        "collection": "800crcrcrcr",
+        "genre": [
+          "Action",
+          "Adventure"
+        ],
+        "release_date": "",
+        "rating": "8.9",
+        "description": "KGF is an Indian period action film series set mostly in the Kolar Gold Fields, which gives the series its name, created by Prashanth Neel and produced by Hombale Films starring Yash in lead role with an ensemble supporting cast.[4] Set in the late 1970s and early 1980s, the series follows two narrators, Anand Ingalangi and his son Vijayendra Ingalangi, who gives an interview of a book written by Anand to a leading news channel, which tells the life story of Raja Krishnappa Bairya alias Rocky (Yash), a Mumbai-based high ranking mercenary born in poverty and how he became the most dreaded person at that time.",
+        "duration": "0hrs 0min",
+        "languages": [
+          "English",
+          "Hindi",
+          "Kannada",
+          "Tamil",
+          "Telgu",
+          "Malayalam"
+        ],
+        "trailer_link": "https://www.youtube.com/embed/-KfsY-qwBS0?si=dHakex7DJtzFxR28",
+        "banner": "https://www.koimoi.com/wp-content/new-galleries/2022/04/kgf-sets-foot-in-metaverse-fans-snap-up-nfts-in-record-time-001.jpg",
+        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZJurW850ixrap5RNu1KFvzbXHParFcWkDFhkg1K9q0QFUaWAge3V01ZfktWbXxDHg2g&usqp=CAU",
+        "id": 1
+      },
+      {
+        "id": 2,
+        "moviename": "Inception",
+        "hero": "Leonardo DiCaprio",
+        "heroine": "Marion Cotillard",
+        "director": "Christopher Nolan",
+        "production_house": "Syncopy",
+        "budget": "160cr",
+        "collection": "829cr",
+        "genre": "Sci-Fi Thriller",
+        "release_date": "2010",
+        "rating": "8.8",
+        "description": "Inception is a mind-bending science fiction thriller directed by Christopher Nolan. It explores the concept of entering dreams to steal or implant ideas...",
+        "duration": "2h 28mins",
+        "languages": [
+          "English"
+        ],
+        "trailer_link": "https://www.youtube.com/embed/YoHD9XEInc0",
+        "banner": "https://collider.com/wp-content/uploads/inception_movie_poster_banner_04.jpg",
+        "poster": "https://m.media-amazon.com/images/I/81KG6gAqPoL.jpg"
+      },
+      {
+        "id": 3,
+        "moviename": "Raajakumara",
+        "hero": "Puneeth Rajkumar",
+        "heroine": "Priya Anand",
+        "director": "Santhosh Ananddram",
+        "production_house": "Hombale Films",
+        "budget": "80cr",
+        "collection": "150cr",
+        "genre": "Family Drama",
+        "release_date": "2017",
+        "rating": "8.2",
+        "description": "Raajakumara is a Kannada family drama film directed by Santhosh Ananddram. It revolves around the protagonist, Siddharth, who returns to India and becomes the responsible head of his family's business empire...",
+        "duration": "2h 28mins",
+        "languages": [
+          "Kannada"
+        ],
+        "trailer_link": "https://www.youtube.com/embed/example-link-kannada",
+        "banner": "https://staticr1.blastingcdn.com/media/photogallery/2017/4/8/660x290/b_1200x630x82/a-still-from-raajakumara-movie_1260047.jpg",
+        "poster": "https://static.toiimg.com/thumb/61286401.cms?width=170&height=240&imgsize=52019"
+      },
+      {
+        "id": 4,
+        "moviename": "The Dark Knight",
+        "hero": "Christian Bale",
+        "heroine": "Maggie Gyllenhaal",
+        "director": "Christopher Nolan",
+        "production_house": "Syncopy",
+        "budget": "185cr",
+        "collection": "1.004 billion",
+        "genre": "Action, Crime, Drama",
+        "release_date": "2008",
+        "rating": "9.0",
+        "description": "The Dark Knight is a superhero film directed by Christopher Nolan, based on the DC Comics character Batman...",
+        "duration": "2h 32mins",
+        "languages": [
+          "English"
+        ],
+        "trailer_link": "https://www.youtube.com/embed/EXeTwQWrcwY",
+        "banner": "https://collider.com/wp-content/uploads/dark-knight-rises-movie-poster-banner-1.jpg",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_.jpg"
+      },
+      {
+        "id": 5,
+        "moviename": "Baahubali: The Conclusion",
+        "hero": "Prabhas",
+        "heroine": "Anushka Shetty",
+        "director": "S. S. Rajamouli",
+        "productionHouse": "Arka Media Works",
+        "budget": "250 crore INR",
+        "collection": "1810 crore INR",
+        "rating": 4.9,
+        "description": "Sequel to Baahubali: The Beginning, it concludes the epic saga of Shiva's journey.",
+        "release_date": "2017",
+        "duration": "2h 47min",
+        "genre": [
+          "Action",
+          "Drama"
+        ],
+        "languages": [
+          "Telugu",
+          "Tamil",
+          "Hindi",
+          "Malayalam"
+        ],
+        "trailerLink": "https://youtu.be/qD-6d8Wo3do?si=j8roc1HRWK3qgrgW",
+        "poster": "https://static-koimoi.akamaized.net/wp-content/new-galleries/2017/01/bahubali-the-conclusion-presenting-amarendra-baahubali-devasena-1.jpg",
+        "banner": "https://www.bollywoodhungama.com/wp-content/uploads/2016/03/Bahubali-2-The-Conclusion-4.jpg"
+      },
+      {
+        "id": 6,
+        "moviename": "KGF: Chapter 2",
+        "hero": "Yash",
+        "heroine": "Sanjay Dutt",
+        "director": "Prashanth Neel",
+        "productionHouse": "Hombale Films",
+        "budget": "150 crore INR",
+        "collection": "TBD",
+        "rating": "TBD",
+        "description": "Sequel to KGF: Chapter 1, it continues the story of Rocky in the Kolar Gold Fields.",
+        "release_date": "2021",
+        "duration": "TBD",
+        "genre": [
+          "Action",
+          "Drama"
+        ],
+        "languages": [
+          "Kannada",
+          "Telugu",
+          "Tamil",
+          "Hindi",
+          "Malayalam"
+        ],
+        "trailerLink": "https://youtu.be/jQsE85cI384?si=kZof-nJUxCzMQgT0",
+        "poster": "https://i0.wp.com/www.socialnews.xyz/wp-content/uploads/2022/03/05/fnej2krveaana1d3174161.jpg?quality=80&zoom=1&ssl=1",
+        "banner": "https://e1.pxfuel.com/desktop-wallpaper/436/844/desktop-wallpaper-kgf-chapter-2-kgf-2.jpg "
+      },
+      {
+        "id": 7,
+        "moviename": "Vikram Vedha",
+        "hero": "R. Madhavan",
+        "heroine": "Vijay Sethupathi",
+        "director": "Pushkar–Gayathri",
+        "productionHouse": "Y NOT Studios",
+        "budget": "15 crore INR",
+        "collection": "120 crore INR",
+        "rating": 4.6,
+        "description": "Crime thriller that revolves around the game of cat and mouse.",
+        "release_date": "2017",
+        "duration": "2h 27min",
+        "genre": [
+          "Action",
+          "Crime",
+          "Drama"
+        ],
+        "languages": [
+          "Tamil",
+          "Telugu",
+          "Hindi"
+        ],
+        "trailerLink": "https://www.example.com/vikram-vedha-trailer",
+        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxbFt8v6qbFE8lF_1rwgKbEWhtERtJ2G07ztvE7PnqQVXwncHgR3GnkNgS-9PrkF8wuGc&usqp=CAU",
+        "banner": "https://igimages.gumlet.io/tamil/gallery/movies/vikramveda/main2.jpg?w=400&dpr=2.6"
+      },
+      {
+        "id": 8,
+        "moviename": "The Shawshank Redemption",
+        "director": "Frank Darabont",
+        "leadActor": "Tim Robbins",
+        "leadActress": "Morgan Freeman",
+        "productionCompany": "Castle Rock Entertainment",
+        "budget": "$25 million",
+        "collection": "$58.3 million",
+        "rating": 9.3,
+        "description": "Follows the story of Andy Dufresne, a banker sentenced to life in Shawshank State Penitentiary for a crime he did not commit.",
+        "release_date": "1994",
+        "duration": "2h 22min",
+        "genre": [
+          "Drama"
+        ],
+        "languages": [
+          "English"
+        ],
+        "trailerLink": "https://youtu.be/6hB3S9bIaco",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/8/81/ShawshankRedemptionMoviePoster.jpg",
+        "banner": "https://i.pinimg.com/originals/53/fb/47/53fb47d42b5364429a8274da79e7be63.jpg"
+      },
+      {
+        "id": 9,
+        "moviename": "Drishyam",
+        "hero": "Mohanlal",
+        "heroine": "Meena",
+        "director": "Jeethu Joseph",
+        "productionHouse": "Aashirvad Cinemas",
+        "budget": "12 crore INR",
+        "collection": "75 crore INR",
+        "rating": 4.8,
+        "description": "Mystery thriller about a man's efforts to protect his family from a crime.",
+        "release_date": "2013",
+        "duration": "2h 43min",
+        "genre": [
+          "Crime",
+          "Drama",
+          "Mystery"
+        ],
+        "languages": [
+          "Malayalam",
+          "Tamil",
+          "Telugu",
+          "Hindi"
+        ],
+        "": "https://www.example.com/drishyam-trailer",
+        "poster": "https://files.prokerala.com/movies/pics/800/movie-posters-24083.jpg",
+        "banner": "https://img.nowrunning.com/content/movie/2013/Drishyam/bg1.jpg"
+      },
+      {
+        "id": 10,
+        "moviename": "Andhadhun",
+        "hero": "Ayushmann Khurrana",
+        "heroine": "Tabu",
+        "director": "Sriram Raghavan",
+        "productionHouse": "Matchbox Pictures",
+        "budget": "32 crore INR",
+        "collection": "456 crore INR",
+        "rating": 4.5,
+        "description": "Dark comedy thriller about a blind pianist who unwittingly becomes embroiled in a murder.",
+        "release_date": "2018",
+        "duration": "2h 19min",
+        "genre": [
+          "Crime",
+          "Thriller"
+        ],
+        "languages": [
+          "Hindi",
+          "Telugu",
+          "Tamil",
+          "Malayalam"
+        ],
+        "trailerLink": "https://www.example.com/andhadhun-trailer",
+        "poster": "https://qph.cf2.quoracdn.net/main-qimg-8a34f02b46505f4de263534c67fcaffb-lq",
+        "banner": "https://www.adgully.com/img/800/201904/andhadhun-poster.jpg"
+      },
+      {
+        "id": 13,
+        "moviename": "The Godfather",
+        "director": "Francis Ford Coppola",
+        "leadActor": "Marlon Brando",
+        "leadActress": "Al Pacino",
+        "productionCompany": "Paramount Pictures",
+        "budget": "$6 million",
+        "collection": "$250 million",
+        "rating": 9.2,
+        "description": "The patriarch of an organized crime dynasty transfers control to his reluctant son.",
+        "release_date": "1972",
+        "duration": "2h 55min",
+        "genre": [
+          "Crime",
+          "Drama"
+        ],
+        "languages": [
+          "English"
+        ],
+        "trailerLink": "https://youtu.be/sY1S34973zA",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/1/1c/Godfather_ver1.jpg",
+        "banner": "https://i.imgur.com/jWd7XaO.jpg"
+      },
+      {
+        "id": 14,
+        "moviename": "Pulp Fiction",
+        "director": "Quentin Tarantino",
+        "leadActor": "John Travolta",
+        "leadActress": "Uma Thurman",
+        "productionCompany": "A Band Apart",
+        "budget": "$8 million",
+        "collection": "$214 million",
+        "rating": 8.9,
+        "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+        "release_date": "1994",
+        "duration": "2h 34min",
+        "genre": [
+          "Crime",
+          "Drama"
+        ],
+        "languages": [
+          "English"
+        ],
+        "trailerLink": "https://youtu.be/s7EdQ4FqbhY",
+        "poster": "https://m.media-amazon.com/images/I/61JmNG2dsDL._AC_UF1000,1000_QL80_.jpg",
+        "banner": "https://rukminim2.flixcart.com/image/850/1000/xif0q/poster/b/7/c/small-spos11801-poster-fan-art-mia-wallace-movies-pulp-fiction-original-imaghyv5ykykmtq5.jpeg?q=90"
+      },
+      {
+        "moviename": "Leo",
+        "hero": "vijay",
+        "heroine": "Thrisha",
+        "director": "lokesh ",
+        "production_house": "KVN",
+        "budget": "200cr",
+        "collection": "600cr",
+        "genre": [
+          "Action",
+          "Adventure"
+        ],
+        "release_date": "2023",
+        "rating": "8",
+        "description": "Leo (also marketed as Leo: Bloody Sweet) is a 2023 Indian Tamil-language action thriller film[7] directed by Lokesh Kanagaraj and produced by Seven Screen Studio. The film stars Vijay in the titular role, alongside Sanjay Dutt, Arjun Sarja, Trisha, Gautham Vasudev Menon, Mysskin, Madonna Sebastian, George Maryan, Mansoor Ali Khan, Priya Anand and Mathew Thomas. It is the third installment in the Lokesh Cinematic Universe and is inspired by A History of Violence (2005), an adaptation of the graphic novel of the same name. The film follows Parthi, a café owner and animal rescuer in Theog, who is pursued by gangsters Antony and Harold Das who suspect him to be Antony's estranged son, Leo.\n\nThe film was officially announced in January 2023 under the tentative title Thalapathy 67, as it is Vijay's 67th film as a lead actor, and the official title was announced a few days later. Principal photography commenced the same month in Chennai along with a sporadic schedule in Kashmir, which was again followed by another schedule held at the former location, and wrapped by mid-July. The film has music composed by Anirudh Ravichander, cinematography handled by Manoj Paramahamsa and editing by Philomin Raj.",
+        "duration": "3hrs 4min",
+        "languages": [
+          "Hindi",
+          "Kannada",
+          "Tamil",
+          "Telgu",
+          "Malayalam"
+        ],
+        "trailer_link": "https://www.youtube.com/embed/Po3jStA673E?si=oqJFrarmo0lG9nKu",
+        "banner": "https://static.toiimg.com/thumb/msid-101172246,width-1280,resizemode-4/101172246.jpg",
+        "poster": "https://static.moviecrow.com/gallery/20230918/221063-Leo%20Vijay%20Kannada.jpg",
+        "id": 18
+      }
+    ]
+  }
