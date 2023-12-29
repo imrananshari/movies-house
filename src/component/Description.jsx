@@ -22,7 +22,7 @@ const Description = () => {
             setMovie(data)
             console.log(data);
         })
-
+        
         fetch("http://localhost:4000/movies")
         .then(res=>res.json())
         .then((data)=>{
